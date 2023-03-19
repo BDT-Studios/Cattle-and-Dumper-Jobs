@@ -1,4 +1,4 @@
-# Cattle-and-Dumper-Jobs
+
 ## American Truck Simulator
 
 1. Unzip folder
